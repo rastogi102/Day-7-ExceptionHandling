@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\bin\Debug\ConAppExceptions.exe.config
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\bin\Debug\ConAppExceptions.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\bin\Debug\ConAppExceptions.pdb
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\obj\Debug\ConAppExceptions.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\obj\Debug\ConAppExceptions.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\obj\Debug\ConAppExceptions.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\obj\Debug\ConAppExceptions.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppExceptions\ConAppExceptions\obj\Debug\ConAppExceptions.pdb
